@@ -1,0 +1,38 @@
+{"nodes": [{
+    "name": "Myriel",
+    "id": 0
+  }, {
+    "name": "Napoleon",
+    "id": 1
+  }, {
+    "name": "Mlle.Baptistine",
+    "id": 2
+  }, {
+    "name": "Mme.Magloire",
+    "id": 3
+  }, {
+    "name": "CountessdeLo",
+    "id": 4
+  }],
+  "links": [{
+    "source": 1,
+    "target": 0,
+    "value": 1
+  }, {
+    "source": 2,
+    "target": 0,
+    "value": 8
+  }, {
+    "source": 3,
+    "target": 0,
+    "value": 10
+  }, {
+    "source": 3,
+    "target": 2,
+    "value": 6
+  }, {
+    "source": 4,
+    "target": 0,
+    "value": 1
+  }]
+}
