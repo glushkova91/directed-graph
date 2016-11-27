@@ -1,4 +1,6 @@
 # directed-graph
+The calculation of a betweenness centrality and page-rank of a random generated directed graph.
+The generation of GEXF(xml) file format.
 
 1.  npm install js2xmlparser
 2.  cd js
